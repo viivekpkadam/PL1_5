@@ -1,0 +1,5 @@
+ts-1:ValidateSuccessfulProfilePictureUpload=true
+ts-2:EnsureAdminCanEditUserRecords=false
+ts-3:VerifyAdminUserListSortingFunctionality=true
+ts-4:ConfirmNewTabOpensUponClickingThe'upgrade'Button=true
+ts-5:ValidateTooltipVisibilityOnHoveringOver'help'Button=false
